@@ -1,4 +1,4 @@
-//@Pablo Manuel Fernandez Velazquez 	17:28		17/02/2026
+//@ProfitCoder 	17:28		17/02/2026
 
 public class Alumno{
 	//Atributos
@@ -95,4 +95,5 @@ public class Alumno{
 		System.out.println("Calificacion final " + calificacionFinal());
 		System.out.println("-----------------------------");
 	}	
+
 }
