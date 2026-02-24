@@ -1,4 +1,4 @@
-//ProfitCoder		9:08    20/02/2026
+//@ProfitCoder		9:08    20/02/2026
 
 public class Libro implements Comparable<Libro>{
 	//Atributos 
@@ -52,4 +52,5 @@ public class Libro implements Comparable<Libro>{
 		}
 		return orden;
 	}
+
 }
